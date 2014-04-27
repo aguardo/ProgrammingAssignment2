@@ -1,4 +1,4 @@
-## The functions below take advantag of the scoping rules of the  R language to 
+## The functions below take advantage of the scoping rules of the R language to 
 ## cache the inverse of a matrix that may take too long to compute.
 
 
